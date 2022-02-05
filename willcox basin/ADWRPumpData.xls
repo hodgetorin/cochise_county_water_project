@@ -1,0 +1,9 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">regID</th><th scope="col">totalWater</th><th scope="col">yr1984</th><th scope="col">yr1985</th><th scope="col">yr1986</th><th scope="col">yr1987</th><th scope="col">yr1988</th><th scope="col">yr1989</th><th scope="col">yr1990</th><th scope="col">yr1991</th><th scope="col">yr1992</th><th scope="col">yr1993</th><th scope="col">yr1994</th><th scope="col">yr1995</th><th scope="col">yr1996</th><th scope="col">yr1997</th><th scope="col">yr1998</th><th scope="col">yr1999</th><th scope="col">yr2000</th><th scope="col">yr2001</th><th scope="col">yr2002</th><th scope="col">yr2003</th><th scope="col">yr2004</th><th scope="col">yr2005</th><th scope="col">yr2006</th><th scope="col">yr2007</th><th scope="col">yr2008</th><th scope="col">yr2009</th><th scope="col">yr2010</th><th scope="col">yr2011</th><th scope="col">yr2012</th><th scope="col">yr2013</th><th scope="col">yr2014</th><th scope="col">yr2015</th>
+		</tr><tr>
+			<td>615739</td><td>1120.8570</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>127</td><td>&nbsp;</td><td>149.50</td><td>149.50</td><td>180</td><td>212</td><td>&nbsp;</td><td>193</td><td>109.8570</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div>
